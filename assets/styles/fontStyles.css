@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "DiscoverSans-Book";
+  src: url("chrome-extension://__MSG_@@extension_id__/assets/fonts/DiscoverSans-Book.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: "DiscoverSans-Light";
+  src: url("chrome-extension://__MSG_@@extension_id__/assets/fonts/DiscoverSans-Light.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: "DiscoverSans-Medium";
+  src: url("chrome-extension://__MSG_@@extension_id__/assets/fonts/DiscoverSans-Medium.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: "DiscoverSans-Bold";
+  src: url("chrome-extension://__MSG_@@extension_id__/assets/fonts/DiscoverSans-Bold.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: "DiscoverSans-Book";
+  src: url("chrome-extension://__MSG_@@extension_id__/assets/fonts/DiscoverSans-Book.woff2")
+    format("woff2");
+} ;
